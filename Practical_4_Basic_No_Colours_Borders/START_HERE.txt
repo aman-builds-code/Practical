@@ -1,0 +1,8 @@
+PRACTICAL 4
+
+Open index.html using VS Code Live Server.
+
+Then click Open Image Map.
+Click the food items in the image to open their detail pages.
+
+The practical is kept basic with no colours, CSS or decorative borders.

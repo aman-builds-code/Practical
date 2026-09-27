@@ -1,0 +1,9 @@
+PRACTICAL 3
+
+Open index.html using VS Code Live Server.
+
+The practical contains:
+1. Table using rowspan, colspan, width, height, cellpadding and cellspacing.
+2. Frame layout with a main menu and example pages.
+
+The practical is kept basic with no colours or CSS borders.

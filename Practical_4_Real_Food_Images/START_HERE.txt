@@ -1,0 +1,14 @@
+PRACTICAL 4
+
+1. Open this folder in VS Code.
+2. Right-click index.html.
+3. Select Open with Live Server.
+4. Click Open Image Map.
+5. Click the real food images.
+
+The image map uses:
+- <map>
+- <area>
+- shape="rect"
+- coords
+- href
